@@ -7,7 +7,7 @@ position: 2
 
 # Account Creation & Login
 
-Learn how to create your HealthSync account and log in securely.
+Learn how to create your HealthSync account and log in securely - Damiyan
 
 ![Account Creation and Login](/img/login/test1.png)
 
