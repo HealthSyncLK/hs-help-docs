@@ -1,0 +1,10 @@
+{
+  "label": "🔌 Integrations & APIs",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Developer documentation for HealthSync APIs, webhooks, and third-party integrations."
+  },
+  "collapsible": true,
+  "collapsed": true
+}

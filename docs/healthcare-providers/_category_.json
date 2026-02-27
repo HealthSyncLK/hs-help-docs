@@ -1,0 +1,10 @@
+{
+  "label": "🧑‍⚕️ Healthcare Providers",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "DocSync documentation for healthcare providers. Learn how to connect with patients, manage prescriptions, and integrate lab results."
+  },
+  "collapsible": true,
+  "collapsed": true
+}

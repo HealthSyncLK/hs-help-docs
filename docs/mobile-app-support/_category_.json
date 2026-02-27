@@ -1,0 +1,10 @@
+{
+  "label": "📱 Mobile & App Support",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Guides for using HealthSync on iOS and Android. Learn about mobile app features, syncing, and offline access."
+  },
+  "collapsible": true,
+  "collapsed": true
+}

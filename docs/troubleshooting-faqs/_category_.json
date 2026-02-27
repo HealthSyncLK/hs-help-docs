@@ -1,0 +1,10 @@
+{
+  "label": "🛠 Troubleshooting & FAQs",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Find solutions to common issues, error messages, and frequently asked questions about HealthSync."
+  },
+  "collapsible": true,
+  "collapsed": true
+}

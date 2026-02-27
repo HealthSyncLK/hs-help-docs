@@ -1,0 +1,10 @@
+{
+  "label": "🧰 Policies & Security",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "description": "Privacy policy, terms of service, data protection, and compliance information for HealthSync."
+  },
+  "collapsible": true,
+  "collapsed": true
+}

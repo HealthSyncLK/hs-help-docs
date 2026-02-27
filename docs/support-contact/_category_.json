@@ -1,0 +1,10 @@
+{
+  "label": "📞 Support & Contact",
+  "position": 13,
+  "link": {
+    "type": "generated-index",
+    "description": "Get help from the HealthSync support team. Learn how to contact us, submit tickets, and report bugs."
+  },
+  "collapsible": true,
+  "collapsed": true
+}

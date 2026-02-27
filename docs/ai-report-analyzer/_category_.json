@@ -1,0 +1,10 @@
+{
+  "label": "🤖 AI Report Analyzer",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Understand how HealthSync's AI analyzes your medical reports and provides intelligent insights from your health data."
+  },
+  "collapsible": true,
+  "collapsed": true
+}

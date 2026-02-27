@@ -1,0 +1,10 @@
+{
+  "label": "🧠 Getting Started",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Everything you need to know to get started with HealthSync. Learn how to create your account, set up your profile, navigate the dashboard, and understand user roles and permissions."
+  },
+  "collapsible": true,
+  "collapsed": false
+}

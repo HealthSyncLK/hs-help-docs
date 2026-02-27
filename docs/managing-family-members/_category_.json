@@ -1,0 +1,10 @@
+{
+  "label": "👨‍👩‍👧‍👦 Managing Family Members",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Manage health records for your entire family. Learn about adding family members, managing permissions, and privacy settings."
+  },
+  "collapsible": true,
+  "collapsed": true
+}

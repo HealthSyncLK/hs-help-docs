@@ -1,0 +1,10 @@
+{
+  "label": "📈 Updates & What's New",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "description": "Stay updated with the latest HealthSync features, release notes, and product roadmap."
+  },
+  "collapsible": true,
+  "collapsed": true
+}
